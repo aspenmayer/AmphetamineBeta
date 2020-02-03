@@ -43,9 +43,10 @@ Expires on: March 2nd, 2020<BR>
 • Quick Preferences no longer uses color to represent status due to redesign
 
 # FAQs:<BR>
+<!--- 
 <b>Why is there no beta versions of Amphetamine available?</b><BR>
 Historically, most Amphetamine releases have not not available for beta testing. I do not anticipate making every update to Amphetamine available to the public for beta testing. Only releases with substantial changes will typically be available on Github and, generally speaking, will only be available for a short period of time.
-  
+--->  
 <b>Do beta builds of Amphetamine Expire? Why?</b><BR>
 Yes, they do. Typically, the expiration occurs about a month after the build is created. I don't want this Github page to become a alternative to the Mac App Store where people are requesting that I provide new beta versions. Amphetamine's distribution channel is the Mac App Store and I do not want to change that at this time.
 
