@@ -57,7 +57,7 @@ Beta versions of Amphetamine are code-signed and are notarized by Apple. If you 
 Generally, yes, they should be. I have already done a lot of the beta testing myself. I can't find every bug, though. That's why I need your help.
 
 <b>How can I help test beta versions of Amphetamine?</b><BR>
-A big help would be for you to just simply test all of the things you normally use Amphetamine for. If you want to go above an beyond, I could really use help testing older versions of macOS (10.11 → 10.14), and testing a variety of different Macs (iMac, Mac mini, Mac Pro, MacBook(s) +/- Pros/Airs, etc.). You can use the pre-release release notes at the top of this page for general guidance on new features that could use testing. Making sure the "old" features still work is important too, though.
+A big help would be for you to just simply test all of the things you normally use Amphetamine for. If you want to go above and beyond, I could really use help testing older versions of macOS (10.11 → 10.14), and testing a variety of different Macs (iMac, Mac mini, Mac Pro, MacBook(s) +/- Pros/Airs, etc.). You can use the pre-release release notes at the top of this page for general guidance on new features that could use testing. Making sure the "old" features still work is important too, though.
 
 <b>How to I report issues/bugs I experience when using  beta version of Amphetamine?</b><BR>
 I would prefer you submit a ticket/bug report on [Amphetamine's support site](https://iffy.freshdesk.com).
