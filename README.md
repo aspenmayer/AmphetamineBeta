@@ -9,7 +9,7 @@ This is the distribution channel for beta builds of the macOS app Amphetamine.
 Amphetamine 4.3 b2 <BR>
 Expires on: March 5th, 2020<BR>
 
-Beta 1 → Beta 2 changelog:
+<b>Beta 1 → Beta 2 changelog:</b><BR>
 • Fixed an issue that could cause IPv6 address range matching to evaluate true unexpectedly<BR>
 • Fixed an issue where only one IP address per interface being found<BR>
 • Added "no power adapter" conditions to Power (power adapter/battery) Trigger<BR>
