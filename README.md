@@ -6,10 +6,18 @@ This is the distribution channel for beta builds of the macOS app Amphetamine.
 <BR>
 
 <b>Current Beta:</b><BR>
-Amphetamine 4.3 b1 <BR>
-Expires on: March 2nd, 2020<BR>
+Amphetamine 4.3 b2 <BR>
+Expires on: March 5th, 2020<BR>
 
-<b>[Click here to download](https://github.com/x74353/AmphetamineBeta/raw/master/Betas/Current/Amphetamine_4%2C3_b1.dmg)</b>
+Beta 1 → Beta 2 changelog:
+• Fixed an issue that could cause IPv6 address range matching to evaluate true unexpectedly<BR>
+• Fixed an issue where only one IP address per interface being found<BR>
+• Added "no power adapter" conditions to Power (power adapter/battery) Trigger<BR>
+• Added and/or operator to Power (power adapter/battery) Trigger<BR>
+• Replaced most instances of "AC power adapter" with "power adapter" (still have a few to update)<BR>
+• Updated some help + contextual messages/wording<BR>
+
+<b>[Click here to download](https://github.com/x74353/AmphetamineBeta/raw/master/Betas/Current/Amphetamine_4%2C3_b2.dmg)</b>
 
 <BR>
 
@@ -28,6 +36,8 @@ Expires on: March 2nd, 2020<BR>
 • Support for IPv6 addresses in Triggers<BR>
 • Added ability to manually control padding for menu bar image<BR>
 • Added new + updated some existing AppleScript commands<BR>
+• Added "no power adapter" conditions to Power (power adapter/battery) Trigger<BR>
+• Added and/or operator to Power (power adapter/battery) Trigger<BR>
 <BR>
   <b>Bug Fixes:</b><BR>
 • Fixed an issue where menu would not display when 2 or more displays were arranged vertically<BR>
