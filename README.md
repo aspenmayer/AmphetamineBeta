@@ -9,7 +9,7 @@ This is the distribution channel for beta builds of the macOS app Amphetamine.
 Amphetamine 4.3 b3 <BR>
 Expires on: March 10th, 2020<BR>
 
-Beta 2 → Beta 3 changelog:
+<b>Beta 2 → Beta 3 changelog:</b><BR>
 • DNS Trigger criterion now allows adding/removing of individual DNS server addresses<BR>
 • Fixed an issue that caused Trigger started notifications to not include Trigger name<BR>
 • Preferences → Power has been merged into Preferences → Sessions → Non-Trigger sessions<BR>
