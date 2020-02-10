@@ -15,7 +15,7 @@ Beta 2 → Beta 3 changelog:
 • Preferences → Power has been merged into Preferences → Sessions → Non-Trigger sessions<BR>
 • Preferences → Sessions pane has been split into Non-Trigger and All Session categories to better illustrate how these preferences work/are applied<BR>
 
-Beta 1 → Beta 2 changelog:
+<b>Beta 1 → Beta 2 changelog:</b><BR>
 • Fixed an issue that could cause IPv6 address range matching to evaluate true unexpectedly<BR>
 • Fixed an issue where only one IP address per interface being found<BR>
 • Added "no power adapter" conditions to Power (power adapter/battery) Trigger<BR>
