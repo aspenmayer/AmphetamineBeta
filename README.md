@@ -3,11 +3,11 @@ This is the distribution channel for beta builds of the macOS app Amphetamine.
 
 [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704?mt=12) is a macOS app that is distributed through the Mac App Store. Apple does not provide a [TestFlight service](https://developer.apple.com/testflight/) for macOS like they do for iOS, however, and thus I distribute beta versions of Amphetamine through this Github page.
 
-<BR>
-
 <b>Current Beta:</b><BR>
 Amphetamine 4.3 b3 <BR>
 Expires on: March 10th, 2020<BR>
+
+<b>[Click here to download](https://github.com/x74353/AmphetamineBeta/raw/master/Betas/Current/Amphetamine_4%2C3_b3.dmg)</b>
 
 <b>Beta 2 → Beta 3 changelog:</b><BR>
 • DNS Trigger criterion now allows adding/removing of individual DNS server addresses<BR>
@@ -22,8 +22,6 @@ Expires on: March 10th, 2020<BR>
 • Added and/or operator to Power (power adapter/battery) Trigger<BR>
 • Replaced most instances of "AC power adapter" with "power adapter" (still have a few to update)<BR>
 • Updated some help + contextual messages/wording<BR>
-
-<b>[Click here to download](https://github.com/x74353/AmphetamineBeta/raw/master/Betas/Current/Amphetamine_4%2C3_b3.dmg)</b>
 
 <BR>
 
