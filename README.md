@@ -6,8 +6,14 @@ This is the distribution channel for beta builds of the macOS app Amphetamine.
 <BR>
 
 <b>Current Beta:</b><BR>
-Amphetamine 4.3 b2 <BR>
-Expires on: March 5th, 2020<BR>
+Amphetamine 4.3 b3 <BR>
+Expires on: March 10th, 2020<BR>
+
+Beta 2 → Beta 3 changelog:
+• DNS Trigger criterion now allows adding/removing of individual DNS server addresses<BR>
+• Fixed an issue that caused Trigger started notifications to not include Trigger name<BR>
+• Preferences → Power has been merged into Preferences → Sessions → Non-Trigger sessions<BR>
+• Preferences → Sessions pane has been split into Non-Trigger and All Session categories to better illustrate how these preferences work/are applied<BR>
 
 Beta 1 → Beta 2 changelog:
 • Fixed an issue that could cause IPv6 address range matching to evaluate true unexpectedly<BR>
@@ -17,7 +23,7 @@ Beta 1 → Beta 2 changelog:
 • Replaced most instances of "AC power adapter" with "power adapter" (still have a few to update)<BR>
 • Updated some help + contextual messages/wording<BR>
 
-<b>[Click here to download](https://github.com/x74353/AmphetamineBeta/raw/master/Betas/Current/Amphetamine_4%2C3_b2.dmg)</b>
+<b>[Click here to download](https://github.com/x74353/AmphetamineBeta/raw/master/Betas/Current/Amphetamine_4%2C3_b3.dmg)</b>
 
 <BR>
 
