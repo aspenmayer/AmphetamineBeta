@@ -1,13 +1,19 @@
 # Amphetamine Beta
-This is the distribution channel for beta builds of the macOS app Amphetamine.
+This is the distribution channel for beta versions of the macOS app Amphetamine.
 
 [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704?mt=12) is a macOS app that is distributed through the Mac App Store. Apple does not provide a [TestFlight service](https://developer.apple.com/testflight/) for macOS like they do for iOS, however, and thus I distribute beta versions of Amphetamine through this Github page.
 
 <b>Current Beta:</b><BR>
-Amphetamine 4.3 b3 <BR>
-Expires on: March 10th, 2020<BR>
+Amphetamine 4.3 b4 <BR>
+Expires on: March 11th, 2020<BR>
 
-<b>[Click here to download](https://github.com/x74353/AmphetamineBeta/raw/master/Betas/Current/Amphetamine_4%2C3_b3.dmg)</b>
+<b>[Click here to download](https://github.com/x74353/AmphetamineBeta/raw/master/Betas/Current/Amphetamine_4%2C3_b4.dmg)</b>
+
+<b>Beta 3 → Beta 4 changelog:</b><BR>
+• Fixed an issue that caused Triggers preference pane/view to not load<BR>
+• Fixed an issue that caused Battery & Power Adapter Trigger criterion view to not load<BR>
+• Visual updates to reflect merging of Power & Sessions preference panes<BR>
+• Some small additional bug fixes that are hard to describe in a few words<BR>
 
 <b>Beta 2 → Beta 3 changelog:</b><BR>
 • DNS Trigger criterion now allows adding/removing of individual DNS server addresses<BR>
@@ -61,8 +67,8 @@ Expires on: March 10th, 2020<BR>
 <b>Why is there no beta versions of Amphetamine available?</b><BR>
 Historically, most Amphetamine releases have not not available for beta testing. I do not anticipate making every update to Amphetamine available to the public for beta testing. Only releases with substantial changes will typically be available on Github and, generally speaking, will only be available for a short period of time.
 --->  
-<b>Do beta builds of Amphetamine Expire? Why?</b><BR>
-Yes, they do. Typically, the expiration occurs about a month after the build is created. I don't want this Github page to become an alternative to the Mac App Store where people are requesting that I provide new beta versions. Amphetamine's distribution channel is the Mac App Store and I do not want to change that at this time.
+<b>Do betas of Amphetamine Expire? Why?</b><BR>
+Yes, they do. Typically, the expiration occurs about a month after the beta version is created. I don't want this Github page to become an alternative to the Mac App Store where people are requesting that I provide new beta versions. Amphetamine's distribution channel is the Mac App Store and I do not want to change that at this time.
 
 <b>Is it safe to download a beta version of Amphetamine?</b><BR>
 Beta versions of Amphetamine are code-signed and are notarized by Apple. If you feel uncomfortable with downloading software from outside of the App Store, that's ok. Nobody is forcing you to do it. Just wait for the official release in the App Store.
