@@ -4,7 +4,7 @@ This is the distribution channel for beta versions of the macOS app Amphetamine.
 [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704?mt=12) is a macOS app that is distributed through the Mac App Store. Apple does not provide a [TestFlight service](https://developer.apple.com/testflight/) for macOS like they do for iOS, however, and thus I distribute beta versions of Amphetamine through this Github page.
 
 <hr><b>
-Amphetamine 5 was released on the Mac App Store on 02/20/2020. Amphetamine 5 is a rebranding of version 4.3. Get the update [here](https://apps.apple.com/app/amphetamine/id937984704?mt=12).
+Amphetamine 5 was released on the Mac App Store on 02/20/2020. Amphetamine 5 is a rebranding of version 4.3. Get the update here: https://apps.apple.com/app/amphetamine/id937984704?mt=12 
 </b><hr>
 
 <b>Last Available Beta:</b><BR>
